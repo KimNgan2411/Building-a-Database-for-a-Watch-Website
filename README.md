@@ -5,6 +5,9 @@ Phân tích và xây dựng cơ sở dữ liệu cho website bán đồng hồ l
 
 ### Tài liệu tham khảo
 [1]	Raghu Ramakrisnman, Johannes Gehrke - Database Management Systems.
+
 [2]	R. Elmasri & S.B. Navathe, Addison-Wesley, Fundamentals of Database Systems.
+
 [3]	G.M. Bierman, A. Trigoni, Towards a formal type system for ODMG OQL, University of Cambridge Computer Laboratory, 2000.
+
 [4] Đỗ Trung Tuấn, Cơ sở dữ liệu suy diễn. Nhà xuất bản Giáo dục, 2010.
